@@ -19,7 +19,7 @@ US Census Bureau International Database http://www.census.gov/population/interna
 
 Datos de Cordoba:
 Portal provincial: http://estadistica.cba.gov.ar/
-Portal de transparencia de la mMunicipalidad de Córdoba: http://transparencia.cordoba.gov.ar/
+Portal de transparencia de la Municipalidad de Córdoba: http://transparencia.cordoba.gov.ar/
 Mapas SHP de toda Córdoba: http://andresvazquez.com.ar/data/GeoPortal-Cordoba/
 
 Datos sobre Argentina:
@@ -29,7 +29,6 @@ INDEC: http://www.indec.gov.ar/
 Manuales de periodismos de datos:
 Manual de Periodismo de Datos. European Journalism Centre y la Open Knowledge Foundation http://interactivos.lanacion.com.ar/manual-data 
 Manual de periodismos de datos iberoamericano. Fundación Poderomedia http://manual.periodismodedatos.org 
-
 
 Libre acceso a datos:
 Estados Unidos: alberga grandes bases de datos públicas y no es necesario ser ciudadano norteamericano para acceder a las mismas: The Reporters Commitee for Freedom of the Press has info on US laws  http://www.rcfp.org
