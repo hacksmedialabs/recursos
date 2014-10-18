@@ -17,6 +17,20 @@ Population Reference Bureau DataFinder http://prb.org/datafinder.aspx
 Guardian DataStore World Government Data http://www.guardian.co.uk/world-government-data
 US Census Bureau International Database http://www.census.gov/population/international/data/idb/informationGateway.php / 
 
+Datos de Cordoba:
+Portal provincial: http://estadistica.cba.gov.ar/
+Portal de transparencia de la mMunicipalidad de Córdoba: http://transparencia.cordoba.gov.ar/
+Mapas SHP de toda Córdoba: http://andresvazquez.com.ar/data/GeoPortal-Cordoba/
+
+Datos sobre Argentina:
+Portal Nacional de datos: http://datospublicos.gob.ar 
+INDEC: http://www.indec.gov.ar/ 
+
+Manuales de periodismos de datos:
+Manual de Periodismo de Datos. European Journalism Centre y la Open Knowledge Foundation http://interactivos.lanacion.com.ar/manual-data 
+Manual de periodismos de datos iberoamericano. Fundación Poderomedia http://manual.periodismodedatos.org 
+
+
 Libre acceso a datos:
 Estados Unidos: alberga grandes bases de datos públicas y no es necesario ser ciudadano norteamericano para acceder a las mismas: The Reporters Commitee for Freedom of the Press has info on US laws  http://www.rcfp.org
 A nivel global: The Global Investigative Journalism Network: http://gijn.org/resources/freedom-of-information-laws/
@@ -144,8 +158,6 @@ Hathi Trust Digital Library http://www.hathitrust.org
 Internet Archive http://archive.org/index.php
 Library card: NYPL, DC Public Library, etc
 
-
-
 Infografías, gráficos y diagramas: 
 ChartGizmo: constructor de gráficos. May be useful for those who need to visualize financial, scientific or other type of data. http://chartgizmo.com/
 Online Chart Builder: tablas. http://charts.hohli.com/#cht=p3&chs=320x240&chd=s:&chf=bg,s,FFFFFF|c,s,FFFFFF&max=100&agent=hohli.com
@@ -176,4 +188,14 @@ Videos de cadenas de noticias: posible insertarlos (‘embed’) a la historia p
 Vimeo
 Magisto: edición automática de videos http://www.magisto.com/
 LiveStream: http://new.livestream.com/
+
+Blogs interesantes
+Manuel: Aristarán: http://blog.jazzido.com/ 
+Brian Covaro: http://lasocialinformacion.blogspot.com.ar/ 
+Andy Tow: http://www.andytow.com/blog/ 
+
+ONGs y proyectos
+OpenDataCordoba: http://opendatacordoba.org/ 
+Centro de Estudios de Población y Desarrollo: http://www.cepyd.org.ar/ 
+Municipedia: http://municipedia.com 
 
